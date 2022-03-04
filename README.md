@@ -1,4 +1,4 @@
-<h3 align="center">Junior Full Stack Web Developer</h3>
+<h3 align="center">Junior Full Stack Software Developer</h3>
 
 ---
 
