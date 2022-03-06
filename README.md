@@ -23,7 +23,7 @@ I am an Accountant who is transitioning to the world of Software Engineering. I 
 
 ---
 
-[![Tyler's GitHub stats](https://github-readme-stats.vercel.app/api?username=TylerJEShelton&show_icons=true&theme=tokyonight&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
+[![Tyler's GitHub stats](https://github-readme-stats.vercel.app/api?username=TylerJEShelton&show_icons=true&theme=cobalt2&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
   
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TylerJEShelton&layout=compact&langs_count=6&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TylerJEShelton&layout=compact&langs_count=6&theme=cobalt2)](https://github.com/anuraghazra/github-readme-stats)
 </h3>
