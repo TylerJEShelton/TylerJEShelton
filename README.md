@@ -8,12 +8,10 @@ I am an Accountant who is transitioning to the world of Software Engineering. I 
 - ⚡ Fun fact **I enjoy video games and sports.**
 - 📄 [Checkout my Resume](https://resume.creddle.io/resume/fg1xjxf2jzn)
 
-<h3 align="center">Feel free to connect with me via LinkedIn or Email</h3>
-
-<p align="center"> 
+<h3>Feel free to connect with me via LinkedIn or Email</h3>
 <a href="mailto:tylerjeshelton@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
 <a href="https://www.linkedin.com/in/tylerjeshelton/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-</p>
+
 
 <h3 align="center">Languages and Tools</h3>
 
