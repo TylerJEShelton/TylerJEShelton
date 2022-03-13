@@ -1,16 +1,21 @@
-<h3 align="center">Junior Full Stack Software Developer</h3>
+<p align="center">
+![Banner](https://github.com/TylerJEShelton/TylerJEShelton/blob/main/banner/Banner.png?raw=true "Title")
+</p>
 
 ---
 
 <p align="left">
 I am an Accountant who is transitioning to the world of Software Engineering. I just completed a diploma in Web Development at Lighthouse Labs. I have been interested in coding since high school and originally went to University for Business and Computer Science before focusing solely on the business side. Since then, I have explored software development via Youtube and Udemy before taking the leap with Lighthouse Labs. There is still so much to learn which I find incredibly compelling. I am looking forward to the future that software development will bring!</p>
 
-- 🌱 I’m currently learning **React Native** while also completing a 100 Days of Code to learn **Python**. 
+- 🌱 I’m currently learning **React Native** while also completing a 100 Days of Code to learn **Python**.
 - 💬 Ask me about **JavaScript, React**
 - ⚡ Fun fact **I enjoy video games and sports.**
-- 📧 [Email me](mailto:tylerjeshelton@gmail.com)
-- 👀 [Look at my LinkedIn](https://www.linkedin.com/in/tylerjeshelton)
 - 📄 [Checkout my Resume](https://resume.creddle.io/resume/fg1xjxf2jzn)
+
+## Feel free to connect with me via LinkedIn or Email
+
+<a href="mailto:tylerjeshelton@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+<a href="https://www.linkedin.com/in/tylerjeshelton/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 
 <h3 align="center">Languages and Tools</h3>
 
@@ -24,6 +29,7 @@ I am an Accountant who is transitioning to the world of Software Engineering. I 
 ---
 
 [![Tyler's GitHub stats](https://github-readme-stats.vercel.app/api?username=TylerJEShelton&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
-  
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TylerJEShelton&layout=compact&langs_count=6&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+
 </h3>
