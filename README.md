@@ -16,7 +16,6 @@ I am an Accountant who is transitioning to the world of Software Engineering. I 
 </p>
 
 <h2 align="center">Languages and Tools</h2>
-
 ---
 
 <p align="center"> 
