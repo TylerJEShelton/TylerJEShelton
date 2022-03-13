@@ -1,6 +1,4 @@
-<p align="center">
-![Banner](https://github.com/TylerJEShelton/TylerJEShelton/blob/main/banner/Banner.png?raw=true "Title")
-</p>
+![Banner](https://github.com/TylerJEShelton/TylerJEShelton/blob/main/banner/Banner.png?raw=true 'Title')
 
 ---
 
