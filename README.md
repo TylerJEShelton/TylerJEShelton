@@ -3,7 +3,7 @@
 <p align="left">
 I am an Accountant who is transitioning to the world of Software Engineering. I just completed a diploma in Web Development at Lighthouse Labs. I have been interested in coding since high school and originally went to University for Business and Computer Science before focusing solely on the business side. Since then, I have explored software development via Youtube and Udemy before taking the leap with Lighthouse Labs. There is still so much to learn which I find incredibly compelling. I am looking forward to the future that software development will bring!</p>
 
-- 🌱 I’m currently learning **React Native** while also completing a 100 Days of Code to learn **Python**.
+- 🌱 I’m currently learning **TypeScript** while also completing 100 Days of Code to learn **Python**.  I plan to learn **React Native** in the near future as well.
 - 💬 Ask me about **JavaScript, React**
 - ⚡ Fun fact **I enjoy video games and sports.**
 - 📄 [Checkout my Resume](https://resume.creddle.io/resume/fg1xjxf2jzn)
