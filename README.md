@@ -5,7 +5,7 @@ I am an Accountant who is transitioning to the world of Software Engineering. I 
 
 - 🌱 I’m currently learning **TypeScript** while also completing 100 Days of Code to learn **Python**.  I plan to learn **React Native** in the near future as well.
 - 💬 Ask me about **JavaScript, React**
-- ⚡ Fun fact **I enjoy video games and sports.**
+- ⚡ Fun fact **I enjoy video games, particularly single player games and nearly all sports.**
 - 📄 [Checkout my Resume](https://resume.creddle.io/resume/fg1xjxf2jzn)
 
 <h3 align="center">Feel free to connect with me via LinkedIn or Email</h3>
