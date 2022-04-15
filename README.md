@@ -39,6 +39,6 @@ I am an Accountant who is transitioning to the world of Software Engineering. I 
 
 [![Tyler's GitHub stats](https://github-readme-stats.vercel.app/api?username=TylerJEShelton&show_icons=true&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TylerJEShelton&layout=compact&langs_count=10&theme=react)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TylerJEShelton&layout=compact&langs_count=8&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 </h3>
